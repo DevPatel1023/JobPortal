@@ -53,25 +53,6 @@ Welcome to **Hired**, a modern job portal where candidates can find their dream 
 
 ---
 
-## 📁 Folder Structure (Frontend)
-
-src/
-├── components/
-│ ├── JobCard.jsx
-│ ├── Navbar.jsx
-│ └── ...
-├── pages/
-│ ├── Home.jsx
-│ ├── Dashboard.jsx
-│ ├── JobDetails.jsx
-│ └── ...
-├── utils/
-├── hooks/
-├── App.jsx
-└── main.jsx
-
-
----
 
 ## 📦 Setup Instructions
 
